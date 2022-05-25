@@ -9,7 +9,7 @@
     con características como sucursales locales económicas , áreas de preparación 
     convenientes y múltiples flujos de trabajo .
 
-<!-- COMANDOS DE GIT -->
+  <!-- COMANDOS DE GIT -->
 
     - Git init : Crea un repositorio Git vacío o reinicia uno existente.
 
@@ -42,6 +42,3 @@
     - Git checkout -b "name" : Crear la rama y cambiar a ella.
 
     - Git merge : Combinar las ramas.
-
-
-     
