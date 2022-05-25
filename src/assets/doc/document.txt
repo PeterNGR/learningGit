@@ -9,7 +9,8 @@
     con características como sucursales locales económicas , áreas de preparación 
     convenientes y múltiples flujos de trabajo .
 
-  <!-- COMANDOS DE GIT -->
+
+<!-- COMANDOS DE GIT -->
 
     - Git init : Crea un repositorio Git vacío o reinicia uno existente.
 
