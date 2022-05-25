@@ -10,3 +10,39 @@
     con características como sucursales locales económicas , áreas de preparación 
     convenientes y múltiples flujos de trabajo .
      
+
+  <!-- COMANDOS DE GIT -->
+
+    - Git init : Crea un repositorio Git vacío o reinicia uno existente.
+
+    - Git add : Agregar contenido de archivo al índice.
+
+    - Git add . : Agregar todos los archivos al índice.
+
+    - Git add --patch : Agregar pedazos de código.
+
+    - Git status : Mostrar el estado del árbol de trabajo.
+
+    - Git commit : Registrar cambios en el repositorio.
+
+    - Git diff : Mostrar cambios de los archivos.
+
+    - Git log: Mostrar historial de commit
+
+    - Git log --oneline : Mostrar historial de commit simplificado.
+
+    - Git log --stat : Resumen de cambios en los commit.
+
+    - Git log -p : Cambios en el código por commit.
+
+    - Git branch : Mostrar todas las ramas.
+  
+    - Git branch "name" : Crear una nueva rama.
+
+    - Git checkout "name" : Cambiar de rama según su nombre.
+
+    - Git checkout -b "name" : Crear la rama y cambiar a ella.
+
+    - Git merge : Combinar las ramas.
+
+   
