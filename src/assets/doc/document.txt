@@ -38,8 +38,40 @@
   
     - Git branch "name" : Crear una nueva rama.
 
+    - Git branch -r : Mostrar ramas remotas.
+
     - Git checkout "name" : Cambiar de rama según su nombre.
 
     - Git checkout -b "name" : Crear la rama y cambiar a ella.
 
     - Git merge : Combinar las ramas.
+
+    - Git romote : Administrar un conjunto de repositorios rastreados.
+
+    - Git remote add origin url : Agregar un conjunto de repositorios rastreados.
+
+    - Git remote -v : Mostrar iformacion mas detallada del repositorios rastreados.
+
+    - Git push "remote" "branch" : Actualizar referencias remotas junto con objetos asociados.
+
+    - Git pull "remote" "branch" : Obtenga e integre con otro repositorio o una sucursal local.
+
+    - Git fetch "remote" "branch" : Descargar objetos y referencias de otro repositorio.
+
+    - Git clone "url" : Permite clonar un repositorio remoto.
+ 
+    - Git log --oneline --graph --all : Mostrar todo el historial de commit
+
+    - Git stash : Permite manipular y guardar código temporalmente sin hacer un commit.
+
+    - Git stash pop :  Agrega los cambios en la rama que esta ubicado.
+
+    - Git chackout "hash" : Entrar a commit según su hash  de id.
+
+    - Git revert : Tomar el ultimo commit quita los cambios en un nuevo commit.
+
+    - Git reset --hard "hash" : reierte cambios según el hash.
+
+    - Git commit --amend : Mostrar cambios no deseados de commit.
+
+    - Git rebase "rama" : Combina cambios entre ramas.
